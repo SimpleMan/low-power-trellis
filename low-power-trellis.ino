@@ -82,7 +82,6 @@ void setup()
   /* Setup the pin direction. */
   pinMode(pin2, INPUT);
   digitalWrite(pin2, HIGH);
-  sei();
 
   Serial.println("Initialisation complete.");
 }
