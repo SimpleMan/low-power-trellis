@@ -1,3 +1,5 @@
+// Low power mode code found here http://donalmorrissey.blogspot.com/2010/04/putting-arduino-diecimila-to-sleep.html
+
 //Low Power
 #include <avr/sleep.h>
 #include <avr/power.h>
